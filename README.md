@@ -56,9 +56,3 @@
     </footer>
 </body>
 </html>
-
-
-Ya está listo el diseño básico de la página web para tu proyecto “Red de los Dulces”. Incluye los productos, ubicación de ventas, un anuncio promocional y palabras clave para facilitar su búsqueda en Google.
-
-¿Quieres que te ayude a publicarla en una plataforma gratuita como Google Sites o GitHub Pages? También puedo ayudarte con imágenes o diseños más atractivos si lo deseas.
-
